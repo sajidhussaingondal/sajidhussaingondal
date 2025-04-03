@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sajidhussaingondal
-- 👀 I’m interested in Web 3.0 and Metaverse.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on JavaScript projects
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Datascience projects
 - 📫 How to reach me? please email me at sgondal01@hotmail.com.
 
 <!---
